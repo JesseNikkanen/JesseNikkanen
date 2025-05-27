@@ -1,4 +1,7 @@
-## Hi there 👋
+## Tere  
+
+>Just trying to **learn this** :)  
+
 
 <!--
 **JesseNikkanen/JesseNikkanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
