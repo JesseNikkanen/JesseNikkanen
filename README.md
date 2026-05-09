@@ -1,6 +1,6 @@
-## Tere  
+## Contains mainly school projects
 
->Just trying to **learn this** :)  
+>I am a student from Aalto University and this account contains some of my school projects and will also contain my own projects. 
 
 
 <!--
