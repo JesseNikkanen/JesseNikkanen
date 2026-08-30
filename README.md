@@ -1,6 +1,6 @@
-## Contains mainly school projects
+## Contains my school projects and also my own
 
->I am a student from Aalto University and this account contains some of my school projects and will also contain my own projects. 
+> I am a student from Aalto University and this account contains some of my school projects and will also contain my own projects. 
 
 
 <!--
